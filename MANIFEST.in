@@ -1,0 +1,2 @@
+recursive-include Qfx/Config *
+recursive-include Qfx/Sql *
