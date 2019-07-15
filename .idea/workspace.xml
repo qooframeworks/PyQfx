@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a61a9f-c0ac-49a8-a610-a7d5d427f578" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+    <list default="true" id="b7cb76b0-d785-424e-8fdb-87bc5df9feca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Qfx/Config/MySql.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Qfx/Config/MySql.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Qfx/Config/MySql.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,25 +29,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/setup.cfg" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/PyQfx.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+        <option value="$PROJECT_DIR$/Qfx/Config/MySql.ini" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1303" />
+    <option name="x" value="70" />
     <option name="y" value="27" />
-    <option name="width" value="1257" />
+    <option name="width" value="1245" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -45,7 +44,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,10 +56,17 @@
               <item name="PyQfx" type="462c0819:PsiDirectoryNode" />
               <item name="Qfx" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyQfx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQfx" type="462c0819:PsiDirectoryNode" />
+              <item name="Qfx" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -84,19 +89,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26a61a9f-c0ac-49a8-a610-a7d5d427f578" name="Default Changelist" comment="" />
-      <created>1563054537038</created>
+      <changelist id="b7cb76b0-d785-424e-8fdb-87bc5df9feca" name="Default Changelist" comment="" />
+      <created>1563162575877</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563054537038</updated>
+      <updated>1563162575877</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1303" y="27" width="1257" height="1053" extended-state="4" />
+    <frame x="615" y="53" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -117,10 +123,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/setup.cfg">
+    <entry file="file://$PROJECT_DIR$/Qfx/Config/MySql.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
